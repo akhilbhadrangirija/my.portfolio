@@ -16,7 +16,7 @@ const Profile = (props) => {
           {props.languageSet === "pl" ? "specjalizacja" : null}
         </div>
         <div className="profileText">
-          createve 3d web developer / frontend developer
+          creative 3d web developer / frontend developer
         </div>
       </div>
 
